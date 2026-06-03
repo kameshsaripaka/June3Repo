@@ -24,8 +24,7 @@ public class LoginTest {
         Assert.assertEquals(driver.getTitle(),
                 "The Internet");
 
-        System.out.println("hello");
-        
+                
         driver.quit();
     }
 }
